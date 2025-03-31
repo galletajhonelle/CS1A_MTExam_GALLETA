@@ -1,6 +1,6 @@
 //Coding Problem 3: User Age Categorization: 
 let age = prompt("Enter your age:");
-age = Number(age);
+age = 19;
 
 if (age < 5) {
     console.log("You are a Toddler.");
